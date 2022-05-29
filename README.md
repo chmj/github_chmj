@@ -5,7 +5,7 @@
 - - Python (Automation, ML, AI, Toys)
 - - NodeJS (Microservices, JS-Backend)
 - 🌱 I’m currently learning BigTable, ML and AI
-- I suck at fron-end code (O_o),
+- I suck at frontend code (O_o),
 
 <!---
 chmj/chmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
