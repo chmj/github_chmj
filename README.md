@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @chmj
-- 👀 I’m interested in Java (Integration, Microservices), Go (Utilities, Microservices), Python (Automation, ML, AI, Toys)
+- 👀 I’m interested in:
+- - Java (Integration, Microservices)
+- - Go (Utilities, Microservices)
+- - Python (Automation, ML, AI, Toys)
 - 🌱 I’m currently learning BigTable, ML and AI
 
 <!---
