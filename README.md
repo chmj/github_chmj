@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @chmj
 - 👀 I’m interested in:
+- - C/C++ (Everything)
 - - Java (Integration, Microservices)
 - - Go (Utilities, Microservices)
 - - Python (Automation, ML, AI, Toys)
 - - NodeJS (Microservices, JS-Backend)
-- 🌱 I’m currently learning BigTable, ML and AI
+- 🌱 I’m currently learning BigTable, ML and AI, Switch for visionOS
 - I suck at frontend code (O_o),
 
 <!---
